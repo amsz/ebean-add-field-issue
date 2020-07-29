@@ -1,6 +1,6 @@
 # Add field demo
 
-throw a ArrayIndexOutOfBoundsException after add a new field 
+Read old model data will throw ArrayIndexOutOfBoundsException after add a new field 
 
 ## reproduce
 
